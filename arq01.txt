@@ -1,0 +1,24 @@
+Nome cliente:eduardo souza
+Data reserva: 05/05/2020
+Tipo Reserva: camarote gold
+Valor Consuma: 590
+Nome cliente:None
+Data reserva: None
+Tipo Reserva: None
+Valor Consuma: None
+Nome cliente:None
+Data reserva: None
+Tipo Reserva: None
+Valor Consuma: None
+Nome cliente:None
+Data reserva: None
+Tipo Reserva: None
+Valor Consuma: None
+Nome cliente:None
+Data reserva: None
+Tipo Reserva: None
+Valor Consuma: None
+Nome cliente:
+Data reserva: 
+Tipo Reserva: 
+Valor Consuma: 
